@@ -19,6 +19,10 @@ function johnLennonFacts(factsArr){
   return factsArr;
 }
 
-function iLoveTheBeatles(){
-  
+function iLoveTheBeatles(num){
+  var empty = [];
+  do{
+    
+  }
+  while (i<2);
 }
